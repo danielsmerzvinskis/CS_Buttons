@@ -1,0 +1,11 @@
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\bin\Debug\4thTask.exe.config
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\bin\Debug\4thTask.exe
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\bin\Debug\4thTask.pdb
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\obj\Debug\4thTask.csproj.AssemblyReference.cache
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\obj\Debug\4thTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\obj\Debug\_4thTask.Form1.resources
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\obj\Debug\_4thTask.Properties.Resources.resources
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\obj\Debug\4thTask.csproj.GenerateResource.cache
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\obj\Debug\4thTask.csproj.CoreCompileInputs.cache
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\obj\Debug\4thTask.exe
+C:\Users\mazai\Desktop\Uzdevumi\C#\4thTask\4thTask\obj\Debug\4thTask.pdb
